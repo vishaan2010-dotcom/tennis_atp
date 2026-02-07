@@ -28,7 +28,7 @@ Doubles updates are temporarily suspended as of late 2020.
 
 If you find a bug, please file an issue, and be as specific as possible.
 
-Feel free to correct bugs or fill in missing data via pull requests, but be aware that I will not merge PRs. But if that's the most convenient way for you to submit improvements to the data, that's fine; I can work with that.
+Feel free to correct bugs or fill in missing data via pull requests. Please be aware that I may not merge PRs directly, but I review them and use the data to improve the repository.
 
 If you'd like to contribute to the project, I post "help wanted" [issues](https://github.com/JeffSackmann/tennis_atp/issues), starting with a plea to fill in biographical data such as date of birth.
 
